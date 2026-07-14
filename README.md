@@ -1,62 +1,64 @@
 # Hi, I'm Leonardo Zotto 👋
 
-Senior Quality Assurance Engineer with 7+ years of experience designing and maintaining automated testing solutions for web applications and APIs.
+Senior Quality Assurance Engineer with 6+ years of experience in manual and automated testing for web applications and APIs.
 
-I specialize in building reliable test automation frameworks, improving CI/CD pipelines, and helping teams deliver software with confidence.
+I specialize in designing reliable automation frameworks, improving software quality, and integrating testing into modern CI/CD pipelines.
 
-## 💻 Tech Stack
+## 🚀 Tech Stack
 
-### Test Automation
+**Automation**
 - Cypress
 - Selenium
 - Playwright (Learning)
 
-### Languages
+**Languages**
 - JavaScript
 - TypeScript
 - Java
 - C#
 
-### API Testing
+**API**
+- REST APIs
 - Postman
-- REST Assured
 - Swagger
 
-### Performance
+**Performance**
 - k6
 - JMeter
 
-### CI/CD
+**CI/CD & Tools**
 - GitHub Actions
 - Azure DevOps
-
-### Tools
 - Git
 - Docker
 - SQL
-- Jira
 
 ---
 
-## 🚀 Current Focus
+## 📌 Current Focus
 
 - Building real-world QA Automation projects
 - Advanced Cypress architecture
-- API automation
-- Performance testing
-- English for international opportunities
+- API Automation
+- Performance Testing
+- Expanding my English for international opportunities
 
 ---
 
 ## 📂 Featured Projects
 
-- Cypress E2E Framework
+🚧 New automation projects are currently in development.
+
+Soon you'll find repositories covering:
+
+- Cypress E2E Automation Framework
 - API Automation Framework
-- Performance Testing with k6
 - Playwright Automation
+- Selenium Framework (Java)
+- Performance Testing with k6
 
 ---
 
 ## 🤝 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/leonardozotto)
+- 💼 LinkedIn: https://linkedin.com/in/leonardozotto
