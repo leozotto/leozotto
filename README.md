@@ -1,32 +1,62 @@
-# Hello, I'm Leonardo Zotto 👋
+# Hi, I'm Leonardo Zotto 👋
 
-I am a dedicated Quality Assurance (QA) professional with solid experience in manual and automated testing. Passionate about ensuring software quality and performance through precise testing and continuous learning.
+Senior Quality Assurance Engineer with 7+ years of experience designing and maintaining automated testing solutions for web applications and APIs.
+
+I specialize in building reliable test automation frameworks, improving CI/CD pipelines, and helping teams deliver software with confidence.
+
+## 💻 Tech Stack
+
+### Test Automation
+- Cypress
+- Selenium
+- Playwright (Learning)
+
+### Languages
+- JavaScript
+- TypeScript
+- Java
+- C#
+
+### API Testing
+- Postman
+- REST Assured
+- Swagger
+
+### Performance
+- k6
+- JMeter
+
+### CI/CD
+- GitHub Actions
+- Azure DevOps
+
+### Tools
+- Git
+- Docker
+- SQL
+- Jira
 
 ---
 
-## 🛠️ My Skills
+## 🚀 Current Focus
 
-- **Manual Testing:** Functional and non-functional testing.  
-- **Automated Testing:** Cypress and JavaScript / C# and Java with Selenium.  
-- **Performance Testing:** K6 and JMeter for performance testing.  
-- **CI/CD:** GitHub Actions and Azure DevOps.  
-
----
-
-## 🌱 Continuous Learning
-
-- Best practices in automated testing.  
-- Performance monitoring.  
-- Security testing.  
-- Testing in microservices environments.  
+- Building real-world QA Automation projects
+- Advanced Cypress architecture
+- API automation
+- Performance testing
+- English for international opportunities
 
 ---
 
-## 📫 Let's Connect!
+## 📂 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardozotto) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zotto.l) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leozotto@hotmail.com)
+- Cypress E2E Framework
+- API Automation Framework
+- Performance Testing with k6
+- Playwright Automation
 
 ---
 
-*Thank you for visiting my profile! I'm excited to collaborate and share knowledge with the development community.*
-</content>
+## 🤝 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/leonardozotto)
