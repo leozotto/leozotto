@@ -1,6 +1,6 @@
 # Hi, I'm Leonardo Zotto 👋
 
-Senior Quality Assurance Engineer with 6+ years of experience in manual and automated testing for web applications and APIs.
+Senior Quality Assurance Engineer with 7+ years of experience in manual and automated testing for web applications and APIs.
 
 I specialize in designing reliable automation frameworks, improving software quality, and integrating testing into modern CI/CD pipelines.
 
